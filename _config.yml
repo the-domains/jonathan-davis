@@ -1,0 +1,28 @@
+name: jonathan.davis
+favicon: null
+layout_spectrum: 0.7503579151816666
+typography_spectrum: 0.3836414541583508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3985246366355568
+  lightness: 0.14953396865166724
+  saturation: 0.3060466176830232
+  rhythmicContrast: 0.4117023991420865
+purpose: []
