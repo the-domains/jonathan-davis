@@ -1,6 +1,6 @@
 name: jonathan.davis
 favicon: null
-layout_spectrum: 0.7503579151816666
+layout_spectrum: 0.25086
 typography_spectrum: 0.3836414541583508
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#3a3934'
-    - '#888886'
-    - '#83211f'
-    - '#f0f0ee'
-  brandStrength: 0.4375
+    - '#279a01'
+    - '#d2e4a6'
+    - '#13420c'
+    - '#f1081b'
+    - '#0103f4'
+  brandStrength: 0.75
   lightness: 0.25
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
